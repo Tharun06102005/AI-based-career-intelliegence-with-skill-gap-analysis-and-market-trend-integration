@@ -1,0 +1,245 @@
+{
+  "Software Engineer": {
+    "career_role": "Software Engineer",
+    "sample_size": 465,
+    "currency": "USD",
+    "min_salary": 83000.0,
+    "max_salary": 750000.0,
+    "median_salary": 158750.0,
+    "mean_salary": 164939.98,
+    "p25_salary": 126500.0,
+    "p75_salary": 190000.0,
+    "salary_range": "$83,000 - $750,000",
+    "hourly_equivalent": {
+      "min": 39.9,
+      "median": 76.32,
+      "max": 360.58
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 385,
+      "HOURLY": 79,
+      "MONTHLY": 2
+    },
+    "confidence": "High"
+  },
+  "Data Scientist": {
+    "career_role": "Data Scientist",
+    "sample_size": 111,
+    "currency": "USD",
+    "min_salary": 89481.6,
+    "max_salary": 270000.0,
+    "median_salary": 162200.0,
+    "mean_salary": 157663.76,
+    "p25_salary": 114968.75,
+    "p75_salary": 189375.0,
+    "salary_range": "$89,482 - $270,000",
+    "hourly_equivalent": {
+      "min": 43.02,
+      "median": 77.98,
+      "max": 129.81
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 94,
+      "HOURLY": 17
+    },
+    "confidence": "High"
+  },
+  "Machine Learning Engineer": {
+    "career_role": "Machine Learning Engineer",
+    "sample_size": 55,
+    "currency": "USD",
+    "min_salary": 55442.5,
+    "max_salary": 410000.0,
+    "median_salary": 176800.0,
+    "mean_salary": 185355.05,
+    "p25_salary": 156300.0,
+    "p75_salary": 216250.0,
+    "salary_range": "$55,442 - $410,000",
+    "hourly_equivalent": {
+      "min": 26.66,
+      "median": 85.0,
+      "max": 197.12
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 49,
+      "HOURLY": 6
+    },
+    "confidence": "High"
+  },
+  "Backend Developer": {
+    "career_role": "Backend Developer",
+    "sample_size": 65,
+    "currency": "USD",
+    "min_salary": 78716.16,
+    "max_salary": 225000.0,
+    "median_salary": 146450.0,
+    "mean_salary": 145402.03,
+    "p25_salary": 121929.6,
+    "p75_salary": 175000.0,
+    "salary_range": "$78,716 - $225,000",
+    "hourly_equivalent": {
+      "min": 37.84,
+      "median": 70.41,
+      "max": 108.17
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 48,
+      "HOURLY": 17
+    },
+    "confidence": "High"
+  },
+  "Frontend Developer": {
+    "career_role": "Frontend Developer",
+    "sample_size": 33,
+    "currency": "USD",
+    "min_salary": 68000.0,
+    "max_salary": 251160.0,
+    "median_salary": 135200.0,
+    "mean_salary": 132240.76,
+    "p25_salary": 105000.0,
+    "p75_salary": 145600.0,
+    "salary_range": "$68,000 - $251,160",
+    "hourly_equivalent": {
+      "min": 32.69,
+      "median": 65.0,
+      "max": 120.75
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 23,
+      "HOURLY": 10
+    },
+    "confidence": "Medium"
+  },
+  "Full Stack Developer": {
+    "career_role": "Full Stack Developer",
+    "sample_size": 87,
+    "currency": "USD",
+    "min_salary": 92900.0,
+    "max_salary": 212800.0,
+    "median_salary": 141427.5,
+    "mean_salary": 139729.23,
+    "p25_salary": 120000.0,
+    "p75_salary": 156125.0,
+    "salary_range": "$92,900 - $212,800",
+    "hourly_equivalent": {
+      "min": 44.66,
+      "median": 67.99,
+      "max": 102.31
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 65,
+      "HOURLY": 23
+    },
+    "confidence": "High"
+  },
+  "DevOps Engineer": {
+    "career_role": "DevOps Engineer",
+    "sample_size": 104,
+    "currency": "USD",
+    "min_salary": 98105.0,
+    "max_salary": 410000.0,
+    "median_salary": 140800.0,
+    "mean_salary": 148830.5,
+    "p25_salary": 125000.0,
+    "p75_salary": 175250.0,
+    "salary_range": "$98,105 - $410,000",
+    "hourly_equivalent": {
+      "min": 47.17,
+      "median": 67.69,
+      "max": 197.12
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 72,
+      "HOURLY": 32
+    },
+    "confidence": "High"
+  },
+  "Data Analyst": {
+    "career_role": "Data Analyst",
+    "sample_size": 164,
+    "currency": "USD",
+    "min_salary": 41600.0,
+    "max_salary": 222650.0,
+    "median_salary": 103750.0,
+    "mean_salary": 107814.09,
+    "p25_salary": 85210.0,
+    "p75_salary": 130000.0,
+    "salary_range": "$41,600 - $222,650",
+    "hourly_equivalent": {
+      "min": 20.0,
+      "median": 49.88,
+      "max": 107.04
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 98,
+      "HOURLY": 66
+    },
+    "confidence": "High"
+  },
+  "Product Manager": {
+    "career_role": "Product Manager",
+    "sample_size": 200,
+    "currency": "USD",
+    "min_salary": 70000.0,
+    "max_salary": 350000.0,
+    "median_salary": 159687.5,
+    "mean_salary": 163312.34,
+    "p25_salary": 130000.0,
+    "p75_salary": 190250.0,
+    "salary_range": "$70,000 - $350,000",
+    "hourly_equivalent": {
+      "min": 33.65,
+      "median": 76.77,
+      "max": 168.27
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 176,
+      "HOURLY": 24
+    },
+    "confidence": "High"
+  },
+  "AI Engineer": {
+    "career_role": "AI Engineer",
+    "sample_size": 11,
+    "currency": "USD",
+    "min_salary": 125000.0,
+    "max_salary": 262500.0,
+    "median_salary": 176800.0,
+    "mean_salary": 182759.86,
+    "p25_salary": 157150.0,
+    "p75_salary": 196250.0,
+    "salary_range": "$125,000 - $262,500",
+    "hourly_equivalent": {
+      "min": 60.1,
+      "median": 85.0,
+      "max": 126.2
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 8,
+      "HOURLY": 3
+    },
+    "confidence": "Low"
+  },
+  "Cloud Engineer": {
+    "career_role": "Cloud Engineer",
+    "sample_size": 45,
+    "currency": "USD",
+    "min_salary": 97833.6,
+    "max_salary": 211750.0,
+    "median_salary": 140400.0,
+    "mean_salary": 137935.53,
+    "p25_salary": 125000.0,
+    "p75_salary": 150800.0,
+    "salary_range": "$97,834 - $211,750",
+    "hourly_equivalent": {
+      "min": 47.04,
+      "median": 67.5,
+      "max": 101.8
+    },
+    "pay_period_breakdown": {
+      "YEARLY": 28,
+      "HOURLY": 17
+    },
+    "confidence": "Medium"
+  }
+}
